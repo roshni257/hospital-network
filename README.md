@@ -102,7 +102,6 @@ The network is segmented into **eight functional sections**, each with its own d
 
 **Roshni Rana**  
 B.Tech CSE | Minor in Marketing  
-UI/UX & Network Simulation Enthusiast
 
 ---
 
